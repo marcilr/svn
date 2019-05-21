@@ -1,0 +1,11 @@
+#.gitignore
+# Created Tue May 21 10:36:19 AKDT 2019
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+git-svn/
+svn-to-git-ORIG/
+svn-to-git-tex/
+svn-to-git/

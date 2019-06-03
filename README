@@ -9,6 +9,9 @@ git-svn/
   git-svn - Bidirectional operation between a Subversion repository and Git
   https://git-scm.com/docs/git-svn
 
+links.txt
+  svn related links
+
 manifest
   Manifest for resync application
 

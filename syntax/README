@@ -6,4 +6,4 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 Filelist
 ========
 list.txt
-  Listing repo contents
+  svn list — List directory entries in the repository

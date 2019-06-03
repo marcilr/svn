@@ -1,0 +1,20 @@
+list.txt
+Created Mon Jun  3 12:47:17 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Listing repo contents
+
+
+Use:
+  svn list svn://svn.example.org/path/in/repos
+
+
+NOTE: This only works against the working copy.
+      i.e. ONly against a checked out copy of the repo.
+
+
+Links
+=====
+Displaying the contents of a Subversion repository
+https://serverfault.com/questions/178242/displaying-the-contents-of-a-subversion-repository

@@ -1,0 +1,13 @@
+links.txt
+Created Mon Jun  3 12:35:47 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+svn related links
+
+
+Links
+=====
+Sparse Directories
+Has details of --depth argument
+http://svnbook.red-bean.com/en/1.6/svn.advanced.sparsedirs.html

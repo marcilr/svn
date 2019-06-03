@@ -3,7 +3,7 @@ Created Mon Jun  3 12:47:17 AKDT 2019
 Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-Listing repo contents
+svn list — List directory entries in the repository.
 
 
 Use:

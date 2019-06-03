@@ -8,6 +8,9 @@ svn related links
 
 Links
 =====
+mfn/find-empty-dir-in-svn.rb
+https://gist.github.com/mfn/852051
+
 How do I detect and/or delete empty Subversion directories?
 https://stackoverflow.com/questions/5044214/how-do-i-detect-and-or-delete-empty-subversion-directories
 

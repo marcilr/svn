@@ -8,6 +8,13 @@ svn related links
 
 Links
 =====
+Apache Subversion Community Guide (aka "HACKING")
+http://subversion.apache.org/docs/community-guide/
+
+APIs - Using the APIs
+Chapter 8. Embedding Subversion
+http://svnbook.red-bean.com/en/1.7/svn.developer.usingapi.html
+
 mfn/find-empty-dir-in-svn.rb
 https://gist.github.com/mfn/852051
 

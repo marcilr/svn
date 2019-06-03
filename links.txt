@@ -25,5 +25,9 @@ Sparse Directories
 Has details of --depth argument
 http://svnbook.red-bean.com/en/1.6/svn.advanced.sparsedirs.html
 
+Subversion Tutorial: 10 Most Used SVN Commands with Examples
+by SASIKALA on APRIL 25, 2011
+https://www.thegeekstuff.com/2011/04/svn-command-examples
+
 SVN Tutorial fo Unix
 http://maverick.inria.fr/~Xavier.Decoret/resources/svn/index.html

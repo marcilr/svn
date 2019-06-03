@@ -24,3 +24,6 @@ https://stackoverflow.com/questions/5044214/how-do-i-detect-and-or-delete-empty-
 Sparse Directories
 Has details of --depth argument
 http://svnbook.red-bean.com/en/1.6/svn.advanced.sparsedirs.html
+
+SVN Tutorial fo Unix
+http://maverick.inria.fr/~Xavier.Decoret/resources/svn/index.html

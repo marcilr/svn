@@ -29,5 +29,10 @@ Subversion Tutorial: 10 Most Used SVN Commands with Examples
 by SASIKALA on APRIL 25, 2011
 https://www.thegeekstuff.com/2011/04/svn-command-examples
 
+svn log — Display commit log messages.
+svn log [PATH]
+svn log URL[@REV] [PATH...]
+http://svnbook.red-bean.com/en/1.7/svn.ref.svn.c.log.html
+
 SVN Tutorial fo Unix
 http://maverick.inria.fr/~Xavier.Decoret/resources/svn/index.html

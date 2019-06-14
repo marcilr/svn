@@ -18,6 +18,7 @@ http://svnbook.red-bean.com/en/1.7/svn.developer.usingapi.html
 Locking
 Chapter 3. Advanced Topics
 Only a file at a time can be locked
+Like the format of this page!
 http://svnbook.red-bean.com/en/1.7/svn.advanced.locking.html
 
 mfn/find-empty-dir-in-svn.rb

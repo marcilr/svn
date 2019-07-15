@@ -1,0 +1,23 @@
+locking.txt
+Created Mon Jul 15 13:00:15 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Locking
+
+
+Links
+=====
+how to lock files and make it read-only in svn
+I strongly advise you to carefully read the following SVNBook sections:
+o SVNBook | The lock-modify-unlock solution
+o SVNBook | Locking
+answered Jul 22 '13 at 12:47, bahrep
+https://stackoverflow.com/questions/17756304/how-to-lock-files-and-make-it-read-only-in-svn
+
+The lock-modify-unlock solution
+http://svnbook.red-bean.com/en/1.8/svn.basic.version-control-basics.html#svn.basic.vsn-models.lock-unlock
+
+Locking
+Chapter 3. Advanced Topics
+http://svnbook.red-bean.com/en/1.8/svn.advanced.locking.html

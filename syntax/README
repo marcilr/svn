@@ -7,3 +7,6 @@ Filelist
 ========
 list.txt
   svn list — List directory entries in the repository
+
+locking.txt
+  Locking

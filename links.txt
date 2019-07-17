@@ -15,6 +15,9 @@ APIs - Using the APIs
 Chapter 8. Embedding Subversion
 http://svnbook.red-bean.com/en/1.7/svn.developer.usingapi.html
 
+Getting the last revision number in SVN?
+https://stackoverflow.com/questions/579196/getting-the-last-revision-number-in-svn
+
 Locking
 Chapter 3. Advanced Topics
 Only a file at a time can be locked
@@ -34,6 +37,10 @@ http://svnbook.red-bean.com/en/1.6/svn.advanced.sparsedirs.html
 Subversion Tutorial: 10 Most Used SVN Commands with Examples
 by SASIKALA on APRIL 25, 2011
 https://www.thegeekstuff.com/2011/04/svn-command-examples
+
+svn checkout
+Like the format of this page
+http://svnbook.red-bean.com/en/1.8/svn.ref.svn.c.checkout.html
 
 svn log — Display commit log messages.
 svn log [PATH]
